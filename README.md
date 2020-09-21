@@ -1,3 +1,3 @@
-# leetcode_ruby
+# One Line
 
-1 line ruby code just for fun on 1_line folder.
+Just a fun 1 line solutions for problems.
