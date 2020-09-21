@@ -19,7 +19,7 @@ If you like this Kata, please try:
 # Solutions
 
 ## Ruby
-```
+```ruby
 def dup(arr)
   arr.map{ |i| i.chars.chunk(&:itself).map(&:first).join('') }
 end

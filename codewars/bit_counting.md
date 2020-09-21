@@ -8,7 +8,7 @@ Example: The binary representation of 1234 is 10011010010, so the function shoul
 # Solutions
 
 ## Ruby
-```
+```ruby
 def count_bits(n)
   n.to_s(2).split('').count("1")
 end
