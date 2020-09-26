@@ -1,3 +1,3 @@
 # One Line
 
-Just a fun 1 line solutions for problems.
+This is just for fun. Probably not a good idea for real life or programming interview if logic is not simple.
