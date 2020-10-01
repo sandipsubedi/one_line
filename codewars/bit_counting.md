@@ -13,3 +13,10 @@ def count_bits(n)
   n.to_s(2).split('').count("1")
 end
 ```
+
+## Java
+```java
+private static int bitCount(int num) {
+        return Integer.toBinaryString(num).replaceAll("[0]", "").length();
+}
+```
