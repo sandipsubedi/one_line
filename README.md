@@ -2,7 +2,6 @@
 
 This is just for fun. Probably not a good idea for real life or programming interview if logic is not simple.
 
-
 ## Contributing:
 Please follow the following guidelines for contrubuting.
 
@@ -13,33 +12,10 @@ Please follow the following guidelines for contrubuting.
 5. Push the changes to your repo.
 6. Create a Pull Request.
 
-
 ## Style Guidelines:
 - **Folders** are named using the website name: 
   Example: LeetCode.com -> leetcode
 - **Files** should be named <Question_Number><Name_of_the_question>.md
 - File should have following template:
-```
-# Question
 
-Question name and Description (if any).
-
-
-# Solutions
-
-## Java
-
-```java
-Solution
-```
-
-```
-
-## Ruby
-
-```ruby
-Solution
-```
-
-```
-
+  ![template](template.png "Template")
